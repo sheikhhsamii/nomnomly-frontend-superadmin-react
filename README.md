@@ -1,6 +1,6 @@
 # 🧑‍💼 Super Admin Dashboard (React + Vite)
 
-A modern **Super Admin Dashboard** built with **React**, **Vite**, and **Tailwind CSS**, designed to manage users, categories, menus, orders, and deals for the **Dinelytics Restaurant System**. This dashboard provides a sleek interface and responsive design to streamline restaurant management.
+A modern **Super Admin Dashboard** built with **React**, **Vite**, and **Tailwind CSS**, designed to manage users, categories, menus, orders, and deals for the **NomNomly Restaurant System**. This dashboard provides a sleek interface and responsive design to streamline restaurant management.
 
 ---
 
